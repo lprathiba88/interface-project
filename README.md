@@ -1,8 +1,8 @@
-### basic-project
+### interface-project
 
-### March 26, 2016
+### March 31, 2016
 
-A basic application that we will be using for practice
+An application that we will use to learn interface concept in Java
 
 * Git
 * Java
